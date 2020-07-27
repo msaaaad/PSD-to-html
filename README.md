@@ -1,2 +1,2 @@
 # PSD-to-html
-This project is to design a website from PSD using html,css and js
+This project is to design a website from PSD using html,css,bootstrap,uikit
